@@ -22,7 +22,7 @@ The original hypothesis was *"do fans drink more on game day?"* Early in cleanin
  
 This shift is the methodological backbone of the project. Most regular home games don't change retailer behavior at all - only Cy-Hawk does.
  
-## Methodology, in brief
+## Methodology
  
 1. **Filter** Iowa Liquor Sales (245k rows, 2022–2025) and Iowa Crash Data to the three Ames ZIP codes (50010, 50011, 50014).
 2. **Build** a 26-game home-game schedule (2022–2025) with kickoff times, Cy-Hawk flags, conference flags, and an early-vs.-night classification at the 17:00 cutoff.
