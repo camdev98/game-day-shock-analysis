@@ -14,7 +14,16 @@ Most home games are not the demand shock people assume. The actual signal hides 
 | Saturday transactions in the liquor dataset | **20 of 245,400** — the clue that reframed the whole project |
 
 ## What's in this repo
-The repository is organized into notebooks for liquor and crash analysis, a deck folder with the final presentation, and this README documenting the project.
+
+```
+.
+├── notebooks/
+│   ├── liquor_analysis.ipynb    Wholesale liquor sales analysis (my work)
+│   └── crash_analysis.ipynb     Traffic crash analysis (teammate's work, included for context)
+├── deck/
+│   └── MIS_3116_Final_Presentation.pdf
+└── README.md                    (this file)
+```
 
 ## The dataset reframing
  
