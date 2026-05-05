@@ -2,10 +2,10 @@
  
 Two parallel analyses, each answering one half of the project's question: *do Iowa State home football games create measurable shocks to Ames?*
 
-| Notebook | What it analyzes | Author |
-|---|---|---|
-| `liquor_analysis.ipynb` | Wholesale liquor sales (Class E, B2B restocking) | Cameron Devereaux |
-| `crash_analysis.ipynb` | Traffic crashes — volume, severity, drug/alcohol involvement | Teammate (included for context) |
+| Notebook | What it analyzes| 
+|---|---|
+| `liquor_analysis.ipynb` | Wholesale liquor sales (Class E, B2B restocking) 
+| `crash_analysis.ipynb` | Traffic crashes — volume, severity, drug/alcohol involvement
  
 Both notebooks share the same game-schedule construction and merge pattern (`YearWeek` join on a `W-SUN` period), so the comparison axes — Control / Regular Home Game / Cy-Hawk, and Early / Night kickoff — are consistent across the two analyses. This made the cross-finding synthesis at the end of the project straightforward.
  
