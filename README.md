@@ -58,9 +58,10 @@ Both datasets filtered to Ames, 2022–2025.
  
 ## Project context
  
-This was the term project for **MIS 3116 (Data Visualization)** at Iowa State, fall 2025. Five-person team; I owned the liquor analysis end-to-end and contributed to the synthesis. The project deliverables were a 15-minute presentation deck and a written report; both are in `/deck`.
+This was the term project for **MIS 3116 (Data Visualization)** at Iowa State, spring 2026. Five-person team; I owned the liquor analysis end-to-end and contributed to the synthesis. The project deliverables were a 15-minute presentation deck and a written report; both are in `/deck`.
  
 ## Author
  
-**Cameron Devereaux** — MIS '26, Iowa State University
+**Cameron Devereaux** - ISU '26, Management Information Systems & Business Analytics
+
 [LinkedIn](https://www.linkedin.com/in/cameron-devereaux-847474267/) · camdev98@gmail.com
